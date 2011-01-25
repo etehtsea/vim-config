@@ -9,6 +9,9 @@ else
   set guifont=Monaco\ 10
 endif
 
+" disable toolbar
+set guioptions-=T
+
 set encoding=utf8
 set number
 
