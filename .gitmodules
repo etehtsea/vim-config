@@ -1,0 +1,6 @@
+[submodule "idleFingers"]
+	path = idleFingers
+	url = https://github.com/shinzui/vim-idleFingers.git
+[submodule "io"]
+	path = io
+	url = https://github.com/vim-scripts/Io-programming-language-syntax.git
