@@ -9,3 +9,7 @@ end
 set guioptions-=T
 
 set encoding=utf8
+
+" for some reasons official option don't work
+au VimEnter * :IndentGuidesEnable
+let g:indent_guides_color_change_percent=3
